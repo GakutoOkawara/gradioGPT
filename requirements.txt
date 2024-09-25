@@ -4,3 +4,4 @@ langchain
 python-dotenv
 black
 isort
+langchain_community
